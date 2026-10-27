@@ -54,4 +54,4 @@ npx mcp-github-api
 
 ## License
 
-MIT
+Apache-2.0
